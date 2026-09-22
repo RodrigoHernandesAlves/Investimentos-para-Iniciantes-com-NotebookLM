@@ -1,5 +1,5 @@
 # Investimentos-para-Iniciantes-com-NotebookLM
-Desafio DIO sobre introdução a investimetos.
+Desafio DIO sobre introdução a investimentos.
 
 ======= Descrição ==================
 
