@@ -15,7 +15,30 @@ Projeto desenvolvido como parte do desafio da DIO sobre utilização do Notebook
 
 O projeto utiliza fontes institucionais abertas para estudar conceitos fundamentais de investimentos e, ao mesmo tempo, analisar criticamente as respostas produzidas por uma ferramenta de Inteligência Artificial.
 
----
+## 📖 Objetivo de estudo
+
+O objetivo deste estudo é construir uma compreensão inicial e estruturada sobre investimentos, partindo de conceitos fundamentais e avançando para a relação entre eles.
+
+Ao final do estudo, o estudante deverá ser capaz de:
+
+* explicar, com suas próprias palavras, o que são juros, inflação, risco, liquidez, renda fixa e dividendos;
+* diferenciar conceitos que podem ser confundidos, como juros e rentabilidade, risco e liquidez;
+* compreender que renda fixa não significa ausência de risco;
+* reconhecer que dividendos não representam uma remuneração fixa ou garantida;
+* identificar condições, limitações e ressalvas presentes nas fontes estudadas;
+* utilizar o NotebookLM para fazer perguntas, comparar informações e revisar conceitos;
+* avaliar criticamente uma resposta produzida por IA, verificando se suas afirmações são sustentadas pelas fontes;
+* reconhecer quando as fontes disponíveis não são suficientes para responder completamente a uma questão;
+* desenvolver prompts reutilizáveis para continuar estudando outros assuntos com apoio de fontes documentais.
+
+### Pergunta central do estudo
+
+**Como compreender os principais conceitos de investimentos para iniciantes utilizando fontes documentais e o NotebookLM como ferramenta de aprendizagem ativa e verificação crítica?**
+
+### Resultado esperado
+
+Ao concluir o estudo, o estudante deverá possuir um **mini-guia de referência para iniciantes**, construído a partir das fontes selecionadas, contendo conceitos fundamentais, relações entre eles, principais cuidados de interpretação, glossário e prompts reutilizáveis para revisão e aprofundamento.
+
 
 # 1. Contexto e objetivos
 
