@@ -1,6 +1,9 @@
 # Investimentos-para-Iniciantes-com-NotebookLM
 Desafio DIO sobre introdução a investimetos.
 
+======= Descrição ==================
+
+Projeto desenvolvido utilizando o NotebookLM como ferramenta de aprendizagem ativa sobre investimentos para iniciantes. Foram utilizadas fontes institucionais abertas do Banco Central e da CVM, com realização de testes progressivos de prompts, análise crítica das respostas, registro das principais limitações encontradas (“cicatrizes”), elaboração de mini-guia, glossário e prompts reutilizáveis. Toda a documentação do processo está disponível no README do repositório.
 
 # 📚 Mini-Guia de Investimentos para Iniciantes com NotebookLM
 
