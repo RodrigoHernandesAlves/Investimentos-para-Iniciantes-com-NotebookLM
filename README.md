@@ -222,6 +222,15 @@ Essa abordagem permitiu utilizar o NotebookLM não somente como gerador de respo
 ---
 
 # 5. Engenharia de prompts e "cicatrizes"
+### Registros completos dos testes
+
+Os registros individuais das etapas realizadas no NotebookLM estão disponíveis abaixo:
+
+- [Teste 01 — Resumo inicial](respostas-notebooklm/teste-01-resumo.md)
+- [Teste 02 — Conceitos fundamentais](respostas-notebooklm/teste-02-conceitos.md)
+- [Teste 03 — Auditoria crítica](respostas-notebooklm/teste-03-auditoria.md)
+- [Teste 04 — Comparação e limites das fontes](respostas-notebooklm/teste-04-comparacao.md)
+- [Teste 05 — Meta-análise do processo](respostas-notebooklm/teste-05-meta-analise.md)
 
 ## Teste 01 — Resumo exploratório
 
